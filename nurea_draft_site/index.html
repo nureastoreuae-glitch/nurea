@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NURÉA — Curated Korean Skincare UAE</title>
+  <meta name="description" content="NURÉA is a curated Korean skincare destination in the UAE. Explore authentic skincare products, routines, and rituals." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label="NURÉA home"><span class="brand-en">NURÉA</span><span class="brand-ar">نورية</span></a>
+    <nav class="nav">
+      <a href="#products" data-i18n="navProducts">Products</a>
+      <a href="#rituals" data-i18n="navRituals">Rituals</a>
+      <a href="#about" data-i18n="navAbout">About</a>
+      <a href="#faq" data-i18n="navFaq">FAQ</a>
+      <button id="langToggle" class="pill">العربية</button>
+    </nav>
+  </header>
+
+  <main id="home">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow" data-i18n="heroEyebrow">Curated Korean skincare in UAE</p>
+        <h1 data-i18n="heroTitle">A refined skincare edit for calm, luminous, healthy-looking skin.</h1>
+        <p data-i18n="heroText">NURÉA brings together selected Korean skincare essentials, clear routines, and direct WhatsApp ordering for Dubai and the UAE.</p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#products" data-i18n="shopNow">Explore products</a>
+          <a class="btn ghost" href="#rituals" data-i18n="viewRituals">View rituals</a>
+        </div>
+      </div>
+      <div class="hero-card" id="heroFeature"></div>
+    </section>
+
+    <section class="quick-strip" id="quickQuestions">
+      <h2 data-i18n="quickTitle">Quick questions</h2>
+      <div class="quick-grid"></div>
+    </section>
+
+    <section class="section" id="products">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow" data-i18n="catalogEyebrow">Catalog</p>
+          <h2 data-i18n="catalogTitle">Products</h2>
+        </div>
+        <div class="search-wrap">
+          <input id="searchInput" type="search" placeholder="Search by product, brand, or concern" data-placeholder-en="Search by product, brand, or concern" data-placeholder-ar="ابحثي باسم المنتج أو البراند أو المشكلة" />
+        </div>
+      </div>
+      <div class="filters">
+        <select id="categoryFilter"><option value="all">All categories</option></select>
+        <select id="brandFilter"><option value="all">All brands</option></select>
+        <select id="concernFilter"><option value="all">All concerns</option></select>
+        <button class="pill" id="bestFilter" data-i18n="bestOnly">Best Seller only</button>
+      </div>
+      <div class="product-grid" id="productGrid"></div>
+    </section>
+
+    <section class="section soft" id="rituals">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow" data-i18n="ritualEyebrow">Routines</p>
+          <h2 data-i18n="ritualTitle">NURÉA Rituals</h2>
+        </div>
+      </div>
+      <div class="ritual-grid" id="ritualGrid"></div>
+    </section>
+
+    <section class="about" id="about">
+      <div>
+        <p class="eyebrow" data-i18n="aboutEyebrow">About NURÉA</p>
+        <h2 data-i18n="aboutTitle">A curated beauty destination, not a random skincare shelf.</h2>
+      </div>
+      <p data-i18n="aboutText">NURÉA is built in Dubai with a simple idea: make Korean skincare feel clear, refined, and easy to shop. Every product is presented with its role, skin concern, routine step, and a direct order path.</p>
+    </section>
+
+    <section class="section" id="faq">
+      <div class="section-head"><h2 data-i18n="faqTitle">FAQ</h2></div>
+      <div class="faq-grid" id="faqGrid"></div>
+    </section>
+
+    <section class="section policies" id="policies">
+      <h2 data-i18n="policiesTitle">Policies</h2>
+      <p data-i18n="policiesText">This is a draft policy section. Final privacy, terms, delivery, return, and authenticity wording should be reviewed before publishing.</p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-brand">NURÉA</div>
+    <p data-i18n="footerText">Curated Korean skincare in UAE. Orders via WhatsApp and Instagram DM.</p>
+    <a class="btn primary" id="generalWhatsApp" target="_blank" rel="noopener" data-i18n="whatsappGeneral">Order on WhatsApp</a>
+  </footer>
+
+  <dialog id="productModal">
+    <button class="modal-close" id="modalClose">×</button>
+    <div class="modal-content" id="modalContent"></div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

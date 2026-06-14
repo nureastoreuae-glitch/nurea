@@ -1,0 +1,686 @@
+[
+  {
+    "id": "boj-relief-sun-aqua",
+    "brand": "Beauty of Joseon",
+    "name": "Relief Sun Aqua-Fresh Rice + B5 SPF50+ PA++++",
+    "nameAr": "واقي شمس بيوتي أوف جوسون أكوا فريش رايس + B5",
+    "cat": "sunscreen",
+    "concerns": [
+      "uv",
+      "hydration",
+      "daily"
+    ],
+    "price": 69,
+    "old": 89,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/1_96BCC626-696F-4BBE-A63C-2ABABE9C51D8.jpeg",
+    "desc": "A lightweight daily sunscreen designed to protect the skin while leaving a fresh, comfortable finish.",
+    "descAr": "واقي شمس يومي خفيف يساعد على حماية البشرة مع إحساس منعش ومريح."
+  },
+  {
+    "id": "dr-althea-147",
+    "brand": "Dr. Althea",
+    "name": "147 Barrier Cream",
+    "nameAr": "دكتور ألثيا 147 باريير كريم",
+    "cat": "moisturizer",
+    "concerns": [
+      "barrier",
+      "sensitive",
+      "dryness"
+    ],
+    "price": 99,
+    "old": 125,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/7_9B2F96DC-273E-4683-98E3-640BA7008AE8.jpeg",
+    "desc": "A nourishing barrier cream designed to support comfort, hydration, and a healthier-looking skin barrier.",
+    "descAr": "كريم مغذٍ يساعد على دعم راحة البشرة وترطيبها وتعزيز مظهر حاجز البشرة الصحي."
+  },
+  {
+    "id": "medicube-pink-cica-toner",
+    "brand": "Medicube",
+    "name": "PDRN Pink Cica Soothing Toner",
+    "nameAr": "ميديكوب تونر PDRN بينك سيكا المهدئ",
+    "cat": "toner",
+    "concerns": [
+      "sensitive",
+      "hydration",
+      "redness"
+    ],
+    "price": 119,
+    "old": 149,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/6_7E6C185F-E1C6-4A94-8DB7-C53E369B93D2.jpeg",
+    "desc": "A soothing toner designed to support calm-looking, hydrated-looking, and smoother-looking skin.",
+    "descAr": "تونر مهدئ مصمم ليساعد على مظهر بشرة أكثر هدوءًا وترطيبًا ونعومة."
+  },
+  {
+    "id": "boj-ginseng-essence",
+    "brand": "Beauty of Joseon",
+    "name": "Ginseng Essence Water",
+    "nameAr": "بيوتي أوف جوسون جينسنغ إيسنس ووتر",
+    "cat": "toner",
+    "concerns": [
+      "hydration",
+      "texture",
+      "glow"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/11_C4F025AE-956A-4ABD-8339-BA9F5B00B653.jpeg",
+    "desc": "A lightweight essence water designed to hydrate, refresh, and support a smoother, healthier-looking appearance.",
+    "descAr": "إيسنس مائي خفيف يساعد على ترطيب البشرة وإنعاشها ودعم مظهر أكثر نعومة وصحة."
+  },
+  {
+    "id": "dr-althea-aqua",
+    "brand": "Dr. Althea",
+    "name": "Aqua Watery Cream",
+    "nameAr": "دكتور ألثيا أكوا ووتري كريم",
+    "cat": "moisturizer",
+    "concerns": [
+      "hydration",
+      "sensitive",
+      "barrier"
+    ],
+    "price": 89,
+    "old": 115,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/12_30668116-3472-446D-97C2-838198432ECC.jpeg",
+    "desc": "A lightweight watery cream designed to support fresh hydration and a calm, comfortable-looking skin barrier.",
+    "descAr": "كريم مائي خفيف يساعد على ترطيب منعش ودعم مظهر حاجز البشرة الهادئ والمريح."
+  },
+  {
+    "id": "axis-y-no-stress-spf",
+    "brand": "AXIS-Y",
+    "name": "Complete No-Stress Physical Sunscreen V.3 SPF50+ PA++++",
+    "nameAr": "أكسس واي واقي شمس فيزيائي نو سترس V.3",
+    "cat": "sunscreen",
+    "concerns": [
+      "uv",
+      "sensitive",
+      "daily"
+    ],
+    "price": 75,
+    "old": 95,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/14_F22B59D7-A265-4A94-B155-CAAEA8F9B2CF.jpeg",
+    "desc": "A lightweight physical sunscreen designed to protect from daily UV exposure while supporting a calm, comfortable finish.",
+    "descAr": "واقي شمس فيزيائي خفيف يساعد على حماية البشرة يوميًا مع مظهر هادئ ومريح."
+  },
+  {
+    "id": "axis-y-collagen-eye",
+    "brand": "AXIS-Y",
+    "name": "Vegan Collagen Eye Serum",
+    "nameAr": "أكسس واي فيغان كولاجين آي سيروم",
+    "cat": "eye",
+    "concerns": [
+      "eye",
+      "firmness",
+      "hydration"
+    ],
+    "price": 69,
+    "old": 89,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/18_05740FB5-A1BA-419A-B063-0884AEF6A2C1.jpeg",
+    "desc": "A nourishing eye serum designed to help the under-eye area look smoother, firmer, and more refreshed.",
+    "descAr": "سيروم مغذٍ لمنطقة العين يساعد على مظهر أكثر نعومة وتماسكًا وانتعاشًا."
+  },
+  {
+    "id": "celimax-noni",
+    "brand": "Celimax",
+    "name": "The Real Noni Energy Ampoule",
+    "nameAr": "سيليماكس ذا ريال نوني إنرجي أمبول",
+    "cat": "serum",
+    "concerns": [
+      "calm",
+      "glow",
+      "hydration"
+    ],
+    "price": 89,
+    "old": 115,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/21_F5F83CA4-125E-419F-B6C4-5C87CCB51DE3.jpeg",
+    "desc": "A calming ampoule designed to support healthier-looking, radiant skin with a comfortable, nourished feel.",
+    "descAr": "أمبول مهدئ يساعد على منح البشرة مظهرًا أكثر صحة وإشراقًا مع إحساس مريح ومغذٍ."
+  },
+  {
+    "id": "boj-radiance-balm",
+    "brand": "Beauty of Joseon",
+    "name": "Radiance Cleansing Balm",
+    "nameAr": "بيوتي أوف جوسون راديانس كلينسينج بالم",
+    "cat": "oil cleanser",
+    "concerns": [
+      "makeup",
+      "sunscreen",
+      "double cleansing"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/23_494ED7AE-6F72-4892-9D0A-9D355FDB7560.jpeg",
+    "desc": "A gentle cleansing balm designed to melt away makeup, sunscreen, and daily buildup while leaving skin soft and refreshed.",
+    "descAr": "بلسم تنظيف لطيف يساعد على إزالة المكياج وواقي الشمس وتراكمات اليوم مع ترك البشرة ناعمة ومنتعشة."
+  },
+  {
+    "id": "cosrx-peptide-booster",
+    "brand": "COSRX",
+    "name": "The 6 Peptide Skin Booster Serum",
+    "nameAr": "كوسركس ذا 6 بيبتايد سكين بوستر",
+    "cat": "serum",
+    "concerns": [
+      "texture",
+      "hydration",
+      "pores"
+    ],
+    "price": 89,
+    "old": 115,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/25_714FBC42-E33A-4D83-ABCF-FE06C40120A1.jpeg",
+    "desc": "A lightweight booster serum designed to support smoother-looking, hydrated, and balanced skin.",
+    "descAr": "سيروم بوستر خفيف يساعد على مظهر بشرة أكثر نعومة وترطيبًا وتوازنًا."
+  },
+  {
+    "id": "medicube-txa-15",
+    "brand": "Medicube",
+    "name": "TXA Niacinamide 15 Serum",
+    "nameAr": "ميديكوب TXA نياسيناميد 15 سيروم",
+    "cat": "serum",
+    "concerns": [
+      "dark spots",
+      "glow",
+      "even tone"
+    ],
+    "price": 99,
+    "old": 129,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/28_56292023-1DDB-4152-A94C-2AE98C44170B.jpeg",
+    "desc": "A brightening serum designed to support a clearer-looking, more even-looking complexion and radiant glow.",
+    "descAr": "سيروم تفتيح يساعد على دعم مظهر بشرة أكثر صفاءً وتجانسًا وإشراقًا."
+  },
+  {
+    "id": "boj-rice-honey-mask",
+    "brand": "Beauty of Joseon",
+    "name": "Ground Rice and Honey Glow Mask",
+    "nameAr": "بيوتي أوف جوسون رايس آند هوني جلو ماسك",
+    "cat": "mask",
+    "concerns": [
+      "glow",
+      "texture",
+      "nourish"
+    ],
+    "price": 85,
+    "old": 109,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/31_7890C4D9-E978-4C2E-9EE8-8C84561D26BA.jpeg",
+    "desc": "A wash-off mask designed to support smoother-looking, nourished, and radiant-looking skin with rice powder and honey.",
+    "descAr": "ماسك يُغسل بالماء يساعد على مظهر بشرة أنعم وأكثر إشراقًا بتركيبة من الأرز والعسل."
+  },
+  {
+    "id": "skin1004-toning-toner",
+    "brand": "Skin1004",
+    "name": "Madagascar Centella Toning Toner",
+    "nameAr": "سكين1004 مدغشقر سنتيلا تونينغ تونر",
+    "cat": "toner",
+    "concerns": [
+      "calm",
+      "texture",
+      "sensitive"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/36_923470A6-A921-4C10-A065-F2EDB8CB8D8F.jpeg",
+    "desc": "A gentle toner designed to refresh, calm, and support smoother-looking skin.",
+    "descAr": "تونر لطيف يساعد على إنعاش البشرة وتهدئتها ودعم مظهر أكثر نعومة."
+  },
+  {
+    "id": "anua-rice70-toner",
+    "brand": "Anua",
+    "name": "Rice 70 Glow Milky Toner",
+    "nameAr": "أنوا رايس 70 جلو ميلكي تونر",
+    "cat": "toner",
+    "concerns": [
+      "hydration",
+      "glow",
+      "barrier"
+    ],
+    "price": 89,
+    "old": 115,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/41_0F2D0D28-6EFD-45B6-A9BF-D3D252464883.jpeg",
+    "desc": "A milky hydrating toner enriched with rice and ceramides to help leave skin soft, comfortable, and radiant-looking.",
+    "descAr": "تونر حليبي مرطب غني بالأرز والسيراميد يساعد على منح البشرة ملمسًا ناعمًا ومظهرًا مشرقًا ومريحًا."
+  },
+  {
+    "id": "medicube-zero-pore-toner",
+    "brand": "Medicube",
+    "name": "Zero Pore Toner",
+    "nameAr": "ميديكوب زيرو بور تونر",
+    "cat": "toner",
+    "concerns": [
+      "pores",
+      "texture",
+      "oiliness"
+    ],
+    "price": 95,
+    "old": 119,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/42_22726004-44EE-4315-A50B-ADA9A7938934.jpeg",
+    "desc": "A balancing toner designed to support smoother-looking skin and refined-looking pores while helping refresh the skin.",
+    "descAr": "تونر متوازن يساعد على مظهر بشرة أنعم ومسام أكثر صفاءً مع إحساس منعش."
+  },
+  {
+    "id": "medicube-zero-oil",
+    "brand": "Medicube",
+    "name": "Zero Pore Blackhead Cleansing Oil",
+    "nameAr": "ميديكوب زيرو بور بلاكهيد كلينسينج أويل",
+    "cat": "oil cleanser",
+    "concerns": [
+      "blackheads",
+      "pores",
+      "makeup"
+    ],
+    "price": 105,
+    "old": 135,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/45_C27BF931-BF69-4FB7-894D-A84583C2E58F.jpeg",
+    "desc": "A lightweight cleansing oil designed to dissolve sunscreen, makeup, and daily buildup while leaving skin feeling fresh and clean.",
+    "descAr": "زيت تنظيف خفيف يساعد على إزالة واقي الشمس والمكياج وتراكمات اليوم مع ترك البشرة نظيفة ومنتعشة."
+  },
+  {
+    "id": "anua-red-spot",
+    "brand": "Anua",
+    "name": "Heartleaf + Centella Red Spot Cream",
+    "nameAr": "أنوا هارتليف + سنتيلا ريد سبوت كريم",
+    "cat": "moisturizer",
+    "concerns": [
+      "redness",
+      "sensitive",
+      "barrier"
+    ],
+    "price": 75,
+    "old": 95,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/47_14BE73A8-2DD6-4A3B-BEC7-BCC3BDF20C4D.jpeg",
+    "desc": "A soothing cream designed to help calm the look of redness while supporting a balanced, comfortable skin barrier.",
+    "descAr": "كريم مهدئ يساعد على تهدئة مظهر الاحمرار ودعم حاجز البشرة لمنحها إحساسًا أكثر توازنًا وراحة."
+  },
+  {
+    "id": "anua-rice-powder",
+    "brand": "Anua",
+    "name": "Rice Enzyme Brightening Cleansing Powder",
+    "nameAr": "أنوا رايس إنزايم برايتنينج كلينسينج بودر",
+    "cat": "cleanser",
+    "concerns": [
+      "texture",
+      "glow",
+      "daily"
+    ],
+    "price": 75,
+    "old": 95,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/71_E00C5DBC-858E-4F03-869E-3B99F671CECA.jpeg",
+    "desc": "A gentle cleansing powder designed to support a smoother, brighter-looking skin finish.",
+    "descAr": "بودرة تنظيف لطيفة تساعد على مظهر بشرة أنعم وأكثر إشراقًا."
+  },
+  {
+    "id": "boj-revive-eye",
+    "brand": "Beauty of Joseon",
+    "name": "Revive Eye Serum Ginseng + Retinal",
+    "nameAr": "بيوتي أوف جوسون ريفايف آي سيروم جينسنغ + ريتينال",
+    "cat": "eye",
+    "concerns": [
+      "eye",
+      "texture",
+      "anti-aging"
+    ],
+    "price": 65,
+    "old": 85,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/73_127C1E7D-E354-4E41-9299-4457C935D432.jpeg",
+    "desc": "A nourishing eye serum designed to support a smoother-looking eye area and a more refreshed appearance.",
+    "descAr": "سيروم عيون مغذٍ يساعد على مظهر أكثر نعومة وانتعاشًا لمنطقة حول العين."
+  },
+  {
+    "id": "cosrx-bha",
+    "brand": "COSRX",
+    "name": "BHA Blackhead Power Liquid",
+    "nameAr": "كوسركس BHA بلاكهيد باور ليكويد",
+    "cat": "toner",
+    "concerns": [
+      "blackheads",
+      "pores",
+      "texture"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/78_9D50A482-CD77-4E8E-878E-E2C1F7403E12.jpeg",
+    "desc": "A lightweight liquid exfoliant designed to support clearer-looking skin and smoother-looking pores.",
+    "descAr": "سائل تقشير خفيف يساعد على مظهر بشرة أنقى ومسام أنعم."
+  },
+  {
+    "id": "boj-ginseng-oil",
+    "brand": "Beauty of Joseon",
+    "name": "Ginseng Cleansing Oil",
+    "nameAr": "بيوتي أوف جوسون جينسنغ كلينسينج أويل",
+    "cat": "oil cleanser",
+    "concerns": [
+      "makeup",
+      "sunscreen",
+      "double cleansing"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/81_9AB17366-7DC3-48C8-9F68-06B06654BE0D.jpeg",
+    "desc": "A lightweight cleansing oil that helps melt away sunscreen, makeup, and daily buildup while leaving skin clean, soft, and comfortable.",
+    "descAr": "زيت تنظيف خفيف يساعد على إزالة واقي الشمس والمكياج وتراكمات اليوم مع ترك البشرة نظيفة وناعمة ومريحة."
+  },
+  {
+    "id": "anua-quercetinol-foam",
+    "brand": "Anua",
+    "name": "Heartleaf Quercetinol Pore Deep Cleansing Foam",
+    "nameAr": "أنوا هارتليف كويرسيتينول بور ديب كلينسينج فوم",
+    "cat": "foam cleanser",
+    "concerns": [
+      "pores",
+      "oiliness",
+      "daily"
+    ],
+    "price": 59,
+    "old": 79,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/61_BCF87F81-8E49-486B-9156-9E4EC46681EC.jpeg",
+    "desc": "A gentle cleansing foam designed to help remove daily buildup while leaving the skin feeling clean, refreshed, and balanced.",
+    "descAr": "غسول رغوي لطيف يساعد على إزالة الشوائب اليومية ويترك البشرة نظيفة ومنتعشة ومتوازنة المظهر."
+  },
+  {
+    "id": "dr-althea-345",
+    "brand": "Dr. Althea",
+    "name": "345 Relief Cream",
+    "nameAr": "دكتور ألثيا 345 ريليف كريم",
+    "cat": "moisturizer",
+    "concerns": [
+      "barrier",
+      "sensitive",
+      "calm"
+    ],
+    "price": 99,
+    "old": 129,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/143_186A4B14-5DEE-4027-952A-EF5093948C93.jpeg",
+    "desc": "A soothing cream designed to support calm hydration and help the skin barrier feel comfortable.",
+    "descAr": "كريم مهدئ يساعد على ترطيب البشرة ودعم إحساس الراحة لحاجز البشرة."
+  },
+  {
+    "id": "anua-niacinamide-txa4",
+    "brand": "Anua",
+    "name": "Niacinamide 10 TXA 4 Serum",
+    "nameAr": "أنوا نياسيناميد 10 TXA 4 سيروم",
+    "cat": "serum",
+    "concerns": [
+      "dark spots",
+      "even tone",
+      "glow"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/135_A274A4DA-D47C-455F-AAD5-EC8DF134A8E8.jpeg",
+    "desc": "A brightening serum designed to support a more even-looking skin tone and radiant glow.",
+    "descAr": "سيروم تفتيح يساعد على دعم مظهر لون بشرة أكثر تجانسًا وإشراقًا."
+  },
+  {
+    "id": "boj-relief-sun-rice",
+    "brand": "Beauty of Joseon",
+    "name": "Relief Sun Rice + Probiotics SPF50+ PA++++",
+    "nameAr": "بيوتي أوف جوسون ريليف صن رايس + بروبيوتكس",
+    "cat": "sunscreen",
+    "concerns": [
+      "uv",
+      "daily",
+      "hydration"
+    ],
+    "price": 69,
+    "old": 89,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/150_BDD2A5C0-3A74-4177-B6A5-BE061B777149.jpeg",
+    "desc": "A lightweight sunscreen designed to protect the skin while helping it feel comfortable, nourished, and fresh every day.",
+    "descAr": "واقي شمس خفيف يساعد على حماية البشرة ويمنحها إحساسًا مريحًا وترطيبًا يوميًا."
+  },
+  {
+    "id": "anua-heartleaf77",
+    "brand": "Anua",
+    "name": "Heartleaf 77 Soothing Toner",
+    "nameAr": "أنوا هارتليف 77 سوثينج تونر",
+    "cat": "toner",
+    "concerns": [
+      "sensitive",
+      "redness",
+      "hydration"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/127_F37C6CC5-0C51-4D68-AD5C-C2DCF44BC748.jpeg",
+    "desc": "A soothing toner designed to calm, refresh, and support hydrated-looking skin.",
+    "descAr": "تونر مهدئ يساعد على تهدئة البشرة وإنعاشها ودعم مظهر مرطب."
+  },
+  {
+    "id": "anua-pore-oil",
+    "brand": "Anua",
+    "name": "Heartleaf Pore Control Cleansing Oil",
+    "nameAr": "أنوا هارتليف بور كنترول كلينسينج أويل",
+    "cat": "oil cleanser",
+    "concerns": [
+      "pores",
+      "makeup",
+      "sunscreen"
+    ],
+    "price": 79,
+    "old": 99,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/137_8E8A9F39-01F2-4A65-B320-093494845F24.jpeg",
+    "desc": "A lightweight cleansing oil designed to remove sunscreen, makeup, and daily buildup while leaving the skin feeling fresh.",
+    "descAr": "زيت تنظيف خفيف يساعد على إزالة واقي الشمس والمكياج وتراكمات اليوم مع ترك البشرة منتعشة."
+  },
+  {
+    "id": "cosrx-snail92",
+    "brand": "COSRX",
+    "name": "Advanced Snail 92 All In One Cream",
+    "nameAr": "كوسركس أدفانسد سنيل 92 أول إن وان كريم",
+    "cat": "moisturizer",
+    "concerns": [
+      "hydration",
+      "barrier",
+      "texture"
+    ],
+    "price": 75,
+    "old": 95,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/94_23E2D524-2024-435D-9340-54A2F61E121C.jpeg",
+    "desc": "A comforting cream designed to support hydrated-looking, smooth, and healthy-looking skin.",
+    "descAr": "كريم مريح يساعد على مظهر بشرة مرطبة وناعمة وصحية."
+  },
+  {
+    "id": "boj-rice-milk",
+    "brand": "Beauty of Joseon",
+    "name": "Glow Replenishing Rice Milk",
+    "nameAr": "بيوتي أوف جوسون جلو ريبليشينج رايس ميلك",
+    "cat": "toner",
+    "concerns": [
+      "hydration",
+      "glow",
+      "barrier"
+    ],
+    "price": 89,
+    "old": 115,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/93_E5A206D1-7A33-4675-BC88-3F1BEB3EA45B.jpeg",
+    "desc": "A soft milky toner designed to support hydrated-looking, comfortable, and luminous skin.",
+    "descAr": "تونر حليبي لطيف يساعد على مظهر بشرة مرطبة ومريحة ومضيئة."
+  },
+  {
+    "id": "medicube-pdrn-shot",
+    "brand": "Medicube",
+    "name": "PDRN Pink Collagen Capsule Shot 2000",
+    "nameAr": "ميديكوب PDRN بينك كولاجين كابسول شوت 2000",
+    "cat": "serum",
+    "concerns": [
+      "glow",
+      "texture",
+      "elasticity"
+    ],
+    "price": 129,
+    "old": 159,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/89_AEED601D-196C-4172-841E-512E0BEBD4FD.jpeg",
+    "desc": "A glow-focused serum step designed to support smoother-looking, bouncy-looking skin.",
+    "descAr": "سيروم لدعم مظهر بشرة أكثر نعومة وامتلاءً وإشراقًا."
+  },
+  {
+    "id": "biodance-collagen-mask",
+    "brand": "Biodance",
+    "name": "Bio-Collagen Real Deep Mask",
+    "nameAr": "بايودانس بيو كولاجين ريال ديب ماسك",
+    "cat": "mask",
+    "concerns": [
+      "hydration",
+      "glow",
+      "elasticity"
+    ],
+    "price": 25,
+    "old": 35,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/96_24A6D6EC-EE29-4A20-8C3B-ED997B3945F0.jpeg",
+    "desc": "A single-sheet mask designed to support deep hydration and a fresh, radiant-looking finish.",
+    "descAr": "ماسك ورقي يساعد على ترطيب عميق ومظهر منتعش ومشرق."
+  },
+  {
+    "id": "skin1004-hyalu-cica",
+    "brand": "Skin1004",
+    "name": "Hyalu-Cica Blue Serum",
+    "nameAr": "سكين1004 هايلو سيكا بلو سيروم",
+    "cat": "serum",
+    "concerns": [
+      "hydration",
+      "sensitive",
+      "calm"
+    ],
+    "price": 89,
+    "old": 115,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/101_D476FEBC-E0C0-47B6-BC16-E52BADCE1A92.jpeg",
+    "desc": "A hydrating serum designed to support calm, fresh-looking skin with a lightweight feel.",
+    "descAr": "سيروم مرطب يساعد على مظهر بشرة هادئة ومنتعشة بإحساس خفيف."
+  },
+  {
+    "id": "medicube-capsule-cream",
+    "brand": "Medicube",
+    "name": "PDRN Pink Collagen Capsule Cream",
+    "nameAr": "ميديكوب PDRN بينك كولاجين كابسول كريم",
+    "cat": "moisturizer",
+    "concerns": [
+      "glow",
+      "elasticity",
+      "hydration"
+    ],
+    "price": 139,
+    "old": 169,
+    "best": false,
+    "status": "available",
+    "image": "assets/products/103_66301BA4-4E01-4E0C-9439-671FA7B7CD64.jpeg",
+    "desc": "A capsule cream designed to support glow, comfort, and bouncy-looking hydration.",
+    "descAr": "كريم كبسولات يساعد على دعم الإشراق والراحة ومظهر ترطيب ممتلئ."
+  },
+  {
+    "id": "axis-y-dark-spot",
+    "brand": "AXIS-Y",
+    "name": "Dark Spot Correcting Glow Serum",
+    "nameAr": "أكسس واي دارك سبوت كوريكتينج جلو سيروم",
+    "cat": "serum",
+    "concerns": [
+      "dark spots",
+      "glow",
+      "even tone"
+    ],
+    "price": 65,
+    "old": 85,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/108_F396031D-D4BE-440F-8E22-B6CEC40E501E.jpeg",
+    "desc": "A lightweight glow serum designed to support a more even-looking complexion and brighter-looking skin.",
+    "descAr": "سيروم خفيف يساعد على مظهر بشرة أكثر تجانسًا وإشراقًا."
+  },
+  {
+    "id": "cosrx-low-ph",
+    "brand": "COSRX",
+    "name": "Low pH Good Morning Gel Cleanser",
+    "nameAr": "كوسركس لو بي إتش جود مورنينج جل كلينزر",
+    "cat": "cleanser",
+    "concerns": [
+      "daily",
+      "oiliness",
+      "sensitive"
+    ],
+    "price": 55,
+    "old": 75,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/122_582ADACA-C240-46E3-94D8-EEB903217155.jpeg",
+    "desc": "A gentle daily gel cleanser designed to cleanse without leaving the skin feeling stripped.",
+    "descAr": "غسول جل يومي لطيف يساعد على تنظيف البشرة بدون إحساس بالجفاف أو الشد."
+  },
+  {
+    "id": "cosrx-snail96",
+    "brand": "COSRX",
+    "name": "Advanced Snail 96 Mucin Power Essence",
+    "nameAr": "كوسركس أدفانسد سنيل 96 موسين باور إيسنس",
+    "cat": "serum",
+    "concerns": [
+      "hydration",
+      "barrier",
+      "texture"
+    ],
+    "price": 69,
+    "old": 89,
+    "best": true,
+    "status": "available",
+    "image": "assets/products/148_EF3B98E5-2A26-4070-BF43-975EBBED0CBE.jpeg",
+    "desc": "A lightweight essence designed to support hydrated-looking, smooth, and healthy-looking skin.",
+    "descAr": "إيسنس خفيف يساعد على مظهر بشرة مرطبة وناعمة وصحية."
+  }
+]
